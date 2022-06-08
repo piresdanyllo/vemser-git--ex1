@@ -1,0 +1,1 @@
+Exercício para prática do git
